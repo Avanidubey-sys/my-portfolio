@@ -29,8 +29,9 @@ const Services = () => {
     whileInView={{opacity: 1}}
     transition={{duration: 0.5, delay:0.7}}
         className='text-center max-w-2xl mx-auto mt-5 mb-12 font-ovo'>
-            Lorem ipsum dolor, sit amet consectetur adipisicing elit. Odit numquam adipisci facere provident
-            dolor cum sit aliquam. Nesciunt reprehenderit.
+           I specialize in transforming ideas into powerful digital solutions. 
+From web development to innovative software design, my services bridge creativity and technology.
+
         </motion.p>
 
         <motion.div 
@@ -58,3 +59,8 @@ const Services = () => {
 }
 
 export default Services
+
+
+git add .
+git commit -m "Updated portfolio content and projects"
+git push origin main
