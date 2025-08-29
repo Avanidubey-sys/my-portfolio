@@ -61,6 +61,3 @@ From web development to innovative software design, my services bridge creativit
 export default Services
 
 
-git add .
-git commit -m "Updated portfolio content and projects"
-git push origin main
