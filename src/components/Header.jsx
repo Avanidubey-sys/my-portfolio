@@ -34,8 +34,10 @@ const Header = () => {
                     transition={{duration:0.6, delay:0.7}}
                     className='max-w-2xl mx-auto font-ovo'
                     >
-                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Ratione repellat quasi eligendi est nulla eum quos natus delectus. 
-                        Veritatis ex sunt ipsam quidem. natus aliquid!
+                        Hi! I’m Avani Dubey, a Computer Science undergraduate at SAGE University, Bhopal. 
+I’m passionate about crafting elegant and scalable web applications, blending creativity with robust code. 
+From building dynamic interfaces with React.js and Next.js to exploring enterprise-level Java solutions, I thrive on turning ideas into impactful digital experiences.
+
                     </motion.p>
                     <div className='flex flex-col sm:flex-row items-center gap-4 mt-4'>
                         <motion.a href="#contact" 
@@ -44,7 +46,7 @@ const Header = () => {
                         initial={{y: 30, opacity:0}}
                         whileInView={{y:0, opacity: 1}}
                         transition={{duration: 0.6, delay:1}}>
-                            Contact me <Image src={assets.right_arrow_white} alt='' 
+                            Get in Touch<Image src={assets.right_arrow_white} alt='' 
                             className='w-4'/>
                         </motion.a>
 

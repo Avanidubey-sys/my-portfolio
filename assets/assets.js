@@ -83,32 +83,33 @@ export const assets = {
 
 export const workData = [
     {
-        title: 'Frontend project',
-        description: 'Web Design',
-        bgImage: '/work-1.png',
+        title: 'Smart India Hackathon 2024',
+        description: 'OPD & Bed Tracker',
+        bgImage: '/work-4.png',
     },
     {
-        title: 'Geo based app',
-        description: 'Mobile App',
+        title: 'Task Management App',
+        description: 'Efficient Productivity Tool',
+         bgImage: '/work-1.png',
+    },
+    {
+        title: 'E-Commerce Web App',
+        description: 'Seamless Shopping Experience',
         bgImage: '/work-2.png',
     },
     {
-        title: 'Photography site',
-        description: 'Web Design',
+        title: 'Weather Dashboard',
+        description: 'Real-Time Weather',
         bgImage: '/work-3.png',
     },
-    {
-        title: 'UI/UX designing',
-        description: 'UI/UX Design',
-        bgImage: '/work-4.png',
-    },
+    
 ]
 
 export const serviceData = [
-    { icon: assets.web_icon, title: 'Web design', description: 'Web development is the process of building, programming...', link: '' },
-    { icon: assets.mobile_icon, title: 'Mobile app', description: 'Mobile app development involves creating software for mobile devices...', link: '' },
-    { icon: assets.ui_icon, title: 'UI/UX design', description: 'UI/UX design focuses on creating a seamless user experience...', link: '' },
-    { icon: assets.graphics_icon, title: 'Graphics design', description: 'Creative design solutions to enhance visual communication...', link: '' },
+    { icon: assets.web_icon, title: 'Web Development', description: 'Designing responsive and high-performance websites using React.js and Next.js...', link: '' },
+    { icon: assets.mobile_icon, title: 'Java & Backend Development', description: 'Strong foundation in Core Java; aspiring to build enterprise-grade applications with Spring Boot and Microservices...', link: '' },
+    { icon: assets.ui_icon, title: 'Hackathon & Problem Solving', description: 'UI/UX design focuses on creating a seamless user experience...', link: '' },
+    { icon: assets.graphics_icon, title: 'Continuous Learning & Innovation', description: 'Committed to exploring emerging technologies and implementing creative solutions that make an impact...', link: '' },
 ]
 
 export const infoList = [

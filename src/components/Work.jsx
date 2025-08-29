@@ -28,8 +28,10 @@ const Work = () => {
     whileInView={{opacity: 1}}
     transition={{duration: 0.5, delay:0.7}}
     className='text-center max-w-2xl mx-auto mt-5 mb-12 font-ovo'>
-            Lorem ipsum dolor, sit amet consectetur adipisicing elit. Odit numquam adipisci facere provident
-            dolor cum sit aliquam. Nesciunt reprehenderit.
+            Here's a curated collection of my best work, highlighting my journey as a developer. 
+Each project demonstrates my passion for clean design, functionality, and scalability. 
+Take a look and discover how I turn concepts into real-world applications.
+
       </motion.p>
 
       <motion.div 

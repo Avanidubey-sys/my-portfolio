@@ -18,13 +18,13 @@ const Footer = () => {
             <p>@ 2025 Avani Dubey. All rights reserved.</p>
             <ul className='flex items-center gap-10 justofy-center mt-4 sm:mt-0'>
                 <li>
-                    <a target = '_blank' href="https://google.com">GitHub</a>
+                    <a target = '_blank' href="https://github.com/Avanidubey-sys">GitHub</a>
                 </li>
                 <li>
-                    <a target = '_blank' href="https://google.com">LinkedIn</a>
+                    <a target = '_blank' href="https://www.linkedin.com/in/avani-dubey-1b20a72aa/">LinkedIn</a>
                 </li>
                 <li>
-                    <a target = '_blank' href="https://google.com">Twitter</a>
+                    <a target = '_blank' href="https://leetcode.com/u/Avanidubey/">Leetcode</a>
                 </li>
             </ul>
         </div>

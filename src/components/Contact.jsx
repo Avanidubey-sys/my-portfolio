@@ -55,8 +55,9 @@ const Contact = () => {
     whileInView={{opacity: 1}}
     transition={{duration: 0.5, delay:0.7}}
       className='text-center max-w-2xl mx-auto mt-5 mb-12 font-ovo'>
-            Lorem ipsum dolor, sit amet consectetur adipisicing elit. Odit numquam adipisci facere provident
-            dolor cum sit aliquam. Nesciunt reprehenderit.
+            I’m always excited to work on new projects and collaborate with like-minded people. 
+Feel free to reach out via the contact form below or email me directly at dubeyavani18@gmail.com.
+
       </motion.p>
 
       <motion.form 

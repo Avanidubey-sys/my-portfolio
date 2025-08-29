@@ -41,10 +41,12 @@ const About = () => {
             transition={{duration:0.6, delay: 0.8}} 
             className='flex-1'>
                 <p className='mb-10 max-w-2xl font-ovo'>
-                    Lorem, ipsum dolor sit amet consectetur adipisicing elit. Magnam sunt harum pariatur perspiciatis repellendus,
-                    illo soluta reiciendis fugiat aut labore iste necessitatibus beatae consequatur nisi voluptatibus deserunt quam. Atque, placeat?
-                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam tenetur praesentium temporibus in magni aperiam aliquam nulla,
-                    unde vitae voluptates veritatis? Autem nisi accusantium rerum, eaque odit iste natus consequuntur!
+                   I am currently pursuing a B.Tech in Computer Science at SAGE University, Bhopal. 
+I was a finalist in the Smart India Hackathon 2024, which strengthened my problem-solving and coding skills. 
+I have a strong foundation in C, C++, Java (Core), and JavaScript, and I’m proficient in React.js and Next.js. 
+I am passionate about learning Spring Boot, Microservices, and building scalable web applications. 
+Academically, I scored 98.2% in 10th and 88% in 12th, reflecting my dedication and hard work.
+
                 </p>
 
                 <motion.ul 
