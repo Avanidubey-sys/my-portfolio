@@ -101,6 +101,7 @@ export const workData = [
         title: 'Weather Dashboard',
         description: 'Real-Time Weather',
         bgImage: '/work-3.png',
+        link: "https://skyycast.vercel.app/",
     },
     
 ]
