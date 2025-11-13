@@ -86,6 +86,7 @@ export const workData = [
         title: 'Smart India Hackathon 2024',
         description: 'OPD & Bed Tracker',
         bgImage: '/work-4.png',
+        link: "https://vita-medicca.vercel.app/",
     },
     {
         title: 'Task Management App',
@@ -96,6 +97,7 @@ export const workData = [
         title: 'E-Commerce Web App',
         description: 'Seamless Shopping Experience',
         bgImage: '/work-2.png',
+        link: "https://vita-medicca.vercel.app/",
     },
     {
         title: 'Weather Dashboard',
